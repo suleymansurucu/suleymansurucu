@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Süleyman Surucu! 👋
 
-<!--
-**suleymansurucu/suleymansurucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate Mobile Developer | 🧠 Always Learning | 🇺🇸 Based in New Jersey
 
-Here are some ideas to get you started:
+🚀 I specialize in Flutter & Dart, and I'm building mobile apps that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- 🔷 Flutter / Dart
+- 🔥 Firebase / Firestore
+- 🐳 Docker
+- 🗄️ SQL / NoSQL
+- ⚙️ CI/CD, Git, GitHub Actions
+
+---
+
+## 📌 Open Source Projects in 2025
+
+- 🔗 [Fundraising Goal Chart App](https://github.com/suleymansurucu/fundraising-goal-chart)
+- 🍼 [Sara: Baby & Mom Tracker](https://github.com/suleymansurucu/baby-tracker)
+
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleymansurucu)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@suleymansurucu)
+[![Personal Website](https://img.shields.io/badge/Website-grey?logo=google-chrome&logoColor=white)](https://suleymansurucu.dev)
+
+---
+
+## ✨ Fun Facts
+- 🎬 Big fan of Breaking Bad & The Office
+- 📈 Learning about LLMs & AI integration in mobile apps
