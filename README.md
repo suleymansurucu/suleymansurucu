@@ -1,4 +1,4 @@
-# Hi there, I'm Süleyman Surucu 👋
+# Hi there, I'm Suleyman 👋
 
 🎯 Software Developer | 📱 Flutter Specialist | 🇺🇸 Based in New Jersey, USA
 
