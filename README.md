@@ -1,19 +1,24 @@
-# Hi, I'm Süleyman Surucu! 👋
+# Hi there, I'm Süleyman Surucu 👋
 
-🎯 Passionate Mobile Developer | 🧠 Always Learning | 🇺🇸 Based in New Jersey
+🎯 Software Developer | 📱 Flutter Specialist | 🇺🇸 Based in New Jersey, USA
 
-🚀 I specialize in Flutter & Dart, and I'm building mobile apps that solve real-world problems.
+With 4 years of professional experience, I specialize in building **cross-platform mobile applications** using Flutter & Dart. My focus is delivering scalable, maintainable solutions for CRM, ERP, and real-time systems. Passionate about clean code, automation, and performance optimization.
+
+📬 Reach me: **suleymansurucu95@gmail.com**
+
+---
+
+## 🔧 Tech Stack
+
+- **Mobile & Web:** Flutter, Dart, Flutter Web  
+- **Backend:** C#, .NET, RESTful APIs, Firebase  
+- **State Management:** Riverpod, Bloc, Provider  
+- **Databases:** Firebase Firestore, MySQL, PostgreSQL, SQLite  
+- **Tools:** Git, GitHub, Azure DevOps, CI/CD, Jenkins, GitHub Actions  
+- **Other:** Firebase Auth, Cloud Messaging, Stripe & PayPal Integration, GraphQL
 
 ---
 
-## 🛠️ Tech Stack
-- 🔷 Flutter / Dart
-- 🔥 Firebase / Firestore
-- 🐳 Docker
-- 🗄️ SQL / NoSQL
-- ⚙️ CI/CD, Git, GitHub Actions
-
----
 
 ## 📌 Open Source Projects in 2025
 
