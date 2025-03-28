@@ -2,7 +2,7 @@
 
 🎯 Software Developer | 📱 Flutter Specialist | 🇺🇸 Based in New Jersey, USA
 
-With 4 years of professional experience, I specialize in building **cross-platform mobile applications** using Flutter & Dart. My focus is delivering scalable, maintainable solutions for CRM, ERP, and real-time systems. Passionate about clean code, automation, and performance optimization.
+With 4 years of professional experience, I specialize in building **cross-platform mobile applications** using Flutter & Dart. Passionate about clean code, automation, and performance optimization.
 
 📬 Reach me: **suleymansurucu95@gmail.com**
 
