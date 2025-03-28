@@ -22,8 +22,8 @@ With 4 years of professional experience, I specialize in building **cross-platfo
 
 ## 📌 Open Source Projects in 2025
 
-- 🔗 [Fundraising Goal Chart App](https://github.com/suleymansurucu/fundraising-goal-chart)
-- 🍼 [Sara: Baby & Mom Tracker](https://github.com/suleymansurucu/baby-tracker)
+- 🔗 [Fundraising Goal Chart App](https://github.com/suleymansurucu/flutter_fundraising_goal_chart)
+- 🍼 [Sara: Baby & Mom Tracker](https://github.com/suleymansurucu/flutter_sara_baby_tracker_and_sounds)
 
 ---
 
