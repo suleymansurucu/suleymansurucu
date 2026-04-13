@@ -2,7 +2,7 @@
 
 **Mobile Application Architecture and Development Specialist | Flutter & Dart | New Jersey, USA**
 
-With over 4 years of professional experience, I specialize in building **performance-driven, scalable, and clean-code cross-platform mobile applications** using Flutter and Dart. I focus on creating innovative solutions to real-world problems, providing technical leadership, and contributing to the open-source community. My deep knowledge in this field is something I enjoy sharing through my blog posts and open-source projects.
+With over 5 years of professional experience, I specialize in building **performance-driven, scalable, and clean-code cross-platform mobile applications** using Flutter and Dart. I focus on creating innovative solutions to real-world problems, providing technical leadership, and contributing to the open-source community. My deep knowledge in this field is something I enjoy sharing through my blog posts and open-source projects.
 
 📧 **Get in Touch:** suleymansurucu95@gmail.com
 
